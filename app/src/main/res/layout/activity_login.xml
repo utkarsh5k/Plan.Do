@@ -81,4 +81,12 @@
         android:text="I agree to T&amp;C"
         android:id="@+id/checkBox"
         android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/errorPrompt"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>

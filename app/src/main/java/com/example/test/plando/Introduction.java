@@ -17,7 +17,7 @@ public class Introduction extends AppCompatActivity {
     }
     public void sendMessage(View view)
     {
-        Intent intent = new Intent(this, LoginActivity.class);
+        Intent intent = new Intent(this, CustomLogin.class);
         startActivity(intent);
     }
 }
