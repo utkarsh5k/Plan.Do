@@ -20,11 +20,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".LoginActivity"
-            android:label="@string/title_activity_login" />
         <activity android:name=".MenuActivity" />
-        <activity android:name=".CustomLogin"></activity>
+        <activity android:name=".CustomLogin" />
+        <activity android:name=".ToDoActivity"></activity>
     </application>
 
 </manifest>
