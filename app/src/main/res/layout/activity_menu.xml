@@ -37,16 +37,6 @@
         android:onClick="betamsg"
         android:layout_gravity="center_horizontal" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Make a routine"
-        android:textSize="17dp"
-        android:layout_marginTop="20dp"
-        android:id="@+id/routine"
-        android:onClick="betamsg"
-        android:layout_gravity="center_horizontal" />
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
